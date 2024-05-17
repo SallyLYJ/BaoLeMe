@@ -116,7 +116,6 @@ namespace Valve.VR
 #endif
             forceShow;
 
-            show = false;
             if (show)
             {
                 window = GetWindow<SteamVR_UnitySettingsWindow>(true);
